@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Ontiretse Motene:
 I help junior developers learn software engineering by leveraging my expertise in professional development.<br>I am looking to collaborate on projects and programmes with tech professionals. <br>I am looking for help with learning technical skills. <br>I am currently learning JavaScript and React.<br>Ask me about professional development.<br>I am a former teacher turned tech professional.<br><br>
 
 
